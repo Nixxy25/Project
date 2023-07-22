@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=General+Sans:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=FS+Meridian+Trial:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Text:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-general-sans: "General Sans";
+  --font-fs-meridian-trial: "FS Meridian Trial";
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+  --font-sf-pro-text: "SF Pro Text";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --font-size-lg: 18px;
+  --font-size-7xl: 26px;
+  --font-size-smi: 13px;
+  --font-size-29xl: 48px;
+  --font-size-61xl: 80px;
+  --font-size-13xl: 32px;
+  --font-size-41xl: 60px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --neutral-white: #fff;
+  --color-gray-100: #111826;
+  --color-gray-200: rgba(255, 255, 255, 0.2);
+  --color-black: #000;
+  --color-mediumspringgreen: #05e283;
+  --color-mediumseagreen: #1fc77e;
+  --color-gold: #feea00;
+  --color-darkslategray: #414651;
+  --color-darkorchid: #7f3dd2;
+  --primary-primary: #3e79f7;
+  --color-aliceblue: #f4faff;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-13xl: 32px;
+  --br-39xl: 58px;
+  --br-4xs: 9px;
+  --br-48xl: 67px;
+  --br-34xl-5: 53.5px;
+}

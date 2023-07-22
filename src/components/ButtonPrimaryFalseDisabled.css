@@ -1,0 +1,20 @@
+.label {
+  position: absolute;
+  width: 62.22%;
+  top: calc(50% - 8px);
+  left: 18.89%;
+  line-height: 16px;
+  display: inline-block;
+}
+.buttonprimaryfalsedisabled {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-primary);
+  width: 105px;
+  height: 48px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--neutral-white);
+  font-family: var(--font-roboto);
+}

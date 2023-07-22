@@ -1,0 +1,14 @@
+.rate-stardefault-icon {
+  position: relative;
+  width: 20px;
+  height: 31px;
+}
+.itemsquintuple-rating15-st {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
